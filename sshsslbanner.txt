@@ -1,6 +1,7 @@
 <b>
 :::::::::::::::::::::::::::::::::::::::::::::::<br>
-:::::::::::: BonvScripts ::::::::::::::<br>
+<font color="red">
+:::::::::::: Sindiket VPN ::::::::::::::</font><br>
 :::    ✮ No DDoS / Phishing    :::::::<br>
 :::    ✮ No Torrent / Spam     :::::::::<br>
 :::    ✮ No Over-Downloading   :::<br>
